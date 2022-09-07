@@ -1,2 +1,0 @@
-# player web support
-
